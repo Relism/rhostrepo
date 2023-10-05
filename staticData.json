@@ -1,0 +1,6 @@
+data : {
+  endpoints : [
+    "https://server.relism.repl.co",
+    "https://api.relimc.com"
+  ],
+}
